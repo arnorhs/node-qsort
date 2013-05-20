@@ -1,6 +1,6 @@
 {
   "name": "qsort",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Implementation of BSD's qsort in javascript",
   "main": "index.js",
   "devDependencies": {
@@ -24,5 +24,6 @@
   "contributors": [
     "Arnor Heidar Sigurdsson <arnorhs@gmail.com> (http://arnorhs.com/)"
   ],
-  "license": "MIT"
+  "license": "MIT",
+  "readmeFilename": "readme.md"
 }
