@@ -1,0 +1,28 @@
+{
+  "name": "qsort",
+  "version": "0.0.2",
+  "description": "Implementation of BSD's qsort in javascript",
+  "main": "index.js",
+  "devDependencies": {
+    "mocha": "~1.9.0",
+    "deep-equal": "~0.0.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/arnorhs/node-qsort.git"
+  },
+  "keywords": [
+    "qsort",
+    "sort",
+    "sorting",
+    "algorithm"
+  ],
+  "author": "Eugene Zatepyakin <zatepyakin@gmail.com>",
+  "contributors": [
+    "Arnor Heidar Sigurdsson <arnorhs@gmail.com> (http://arnorhs.com/)"
+  ],
+  "license": "MIT"
+}
