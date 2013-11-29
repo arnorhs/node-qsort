@@ -1,6 +1,6 @@
 {
   "name": "qsort",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Implementation of BSD's qsort in javascript",
   "main": "index.js",
   "devDependencies": {
